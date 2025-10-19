@@ -127,30 +127,6 @@ python sentiment_analysis.py
 
 ---
 
-## 📸 Project Screenshots
-
-### 🗞️ Fake News Detection
-![Fake News Detection](visualizations/fake_news_confusion_matrix.png)
-*Confusion matrix showing model performance on fake news classification*
-
-### 🎬 Netflix Analysis
-![Netflix Analysis](visualizations/netflix_eda.png)
-*Comprehensive EDA showing content trends and popularity patterns*
-
-### 📊 Sales Dashboard
-![Sales Dashboard](visualizations/sales_dashboard.png)
-*Interactive dashboard with real-time KPIs and filtering capabilities*
-
-### 🏠 House Price Prediction
-![House Price Prediction](visualizations/house_model_results.png)
-*Model comparison showing regression performance metrics*
-
-### 🐦 Twitter Sentiment Analysis
-![Twitter Sentiment](visualizations/twitter_wordclouds.png)
-*Word clouds showing sentiment patterns across different tweet categories*
-
----
-
 ## 📁 Repository Structure
 
 ```
@@ -192,7 +168,7 @@ data-science-portfolio/
 *Data Science & Machine Learning Enthusiast*
 
 - 🌐 **GitHub**: [@Aymenchaghoub](https://github.com/Aymenchaghoub)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/aymen-chaghoub)
+- 💼 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aymen-chaghoub-1a7796279/)
 - 📧 **Email**: ensm.chaghoub.aymen@gmail.com
 
 ---
