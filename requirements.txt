@@ -1,0 +1,36 @@
+# Data Science Portfolio - Requirements
+
+## Core Data Science Libraries
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+## Machine Learning
+scikit-learn>=1.1.0
+
+## Natural Language Processing
+nltk>=3.7
+wordcloud>=1.8.0
+
+## Web Dashboards
+dash>=2.6.0
+plotly>=5.10.0
+
+## Data Processing
+scipy>=1.9.0
+
+## Utilities
+warnings
+datetime
+re
+collections
+pickle
+json
+
+## Development Tools (Optional)
+jupyter>=1.0.0
+notebook>=6.4.0
+pytest>=7.0.0
+black>=22.0.0
+flake8>=4.0.0

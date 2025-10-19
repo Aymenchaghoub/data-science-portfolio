@@ -1,0 +1,64 @@
+
+================================================================================
+        RAPPORT D'ANALYSE - PRÉDICTION DU PRIX DES MAISONS
+================================================================================
+
+📅 Date de génération : 2025-10-19 11:15:40
+
+1. RÉSUMÉ EXÉCUTIF
+------------------
+Ce projet vise à prédire le prix des maisons en utilisant des algorithmes
+de machine learning. 5000 maisons ont été analysées avec 5 caractéristiques.
+
+Le meilleur modèle obtenu est Ridge Regression avec un R² de 0.9586,
+ce qui signifie que le modèle explique 95.86% de la variance des prix.
+
+2. DONNÉES
+----------
+• Nombre d'échantillons    : 5000
+• Nombre de features       : 5
+• Prix moyen               : $1,144,085.62
+• Prix médian              : $1,140,974.26
+• Plage de prix            : $322,146.63 - $1,963,541.13
+
+Features utilisées :
+  • Avg. Area Income
+  • Avg. Area House Age
+  • Avg. Area Number of Rooms
+  • Avg. Area Number of Bedrooms
+  • Area Population
+
+3. MODÈLES TESTÉS
+-----------------
+Linear Regression         : R² = 0.9586, RMSE = $49,309
+Ridge Regression          : R² = 0.9586, RMSE = $49,307
+Random Forest             : R² = 0.9522, RMSE = $53,014
+Gradient Boosting         : R² = 0.9547, RMSE = $51,627
+
+4. PERFORMANCES DU MEILLEUR MODÈLE (Ridge Regression)
+========================================================
+• R² Score                 : 0.9586
+• RMSE                     : $49,306.89
+• MAE                      : $39,678.46
+• MAPE                     : 3.72%
+
+Interprétation :
+Le modèle peut prédire le prix d'une maison avec une erreur moyenne
+de $39,678, soit environ 3.7% du prix réel.
+
+5. RECOMMANDATIONS
+------------------
+• Le modèle est excellent pour une utilisation en production
+• Prédictions fiables dans la plage $843,189 - $1,446,305
+• Attention aux valeurs extrêmes (outliers)
+
+6. FICHIERS GÉNÉRÉS
+-------------------
+• house_eda.png                : Visualisations exploratoires
+• house_model_results.png      : Résultats des modèles
+• best_house_price_model_ridge_regression.pkl  : Modèle entraîné (pickle)
+• model_metadata.pkl           : Métadonnées du modèle
+
+================================================================================
+                    FIN DU RAPPORT
+================================================================================
