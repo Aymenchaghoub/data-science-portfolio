@@ -20,7 +20,7 @@ Votre repository Git local est maintenant configuré avec :
 
 ### 2. Connecter le repository local à GitHub
 ```bash
-git remote add origin https://github.com/VOTRE_USERNAME/data-science-portfolio.git
+git remote add origin https://github.com/Aymenchaghoub/data-science-portfolio
 git branch -M main
 git push -u origin main
 git push origin v1.0.0
