@@ -13,11 +13,11 @@ scikit-learn>=1.1.0
 nltk>=3.7
 wordcloud>=1.8.0
 
-## Web Dashboards
+## Web Dashboards & Visualization
 dash>=2.6.0
 plotly>=5.10.0
 
-## Data Processing
+## Data Processing & Analysis
 scipy>=1.9.0
 
 ## Utilities
